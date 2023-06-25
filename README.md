@@ -9,4 +9,4 @@ Perform exploratory data analysis on the scraped data to derive insights and ide
 
 You can explore all the code of scraping RERA data from [here](https://github.com/NaveenKumarMaurya/Web-scraping-Project/tree/main/RERA_scraping_code/Maharashtra_rera_scraping_code)
 
-### 2- Magic Bricks property price trend scraping
+### 2- Magic Bricks Property Price Trend Scraping
