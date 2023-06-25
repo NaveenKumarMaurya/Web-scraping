@@ -7,3 +7,4 @@ The purpose of this project is to develop a web scraping solution to extract dat
 #### Objective
 Perform exploratory data analysis on the scraped data to derive insights and identify trends and extracted the answer of these problems for decision making like count of type of organization,what kind of real estate projects are more in mumbers, in which district of maharashtra most of rera resistered projects are there and how many projects are on going projects and new projects.
 
+You can explore all the code of scraping RERA data from ![here](https://github.com/NaveenKumarMaurya/Web-scraping-Project/tree/main/maharashtra_rera_scraping_code)
