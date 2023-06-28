@@ -14,3 +14,6 @@ You can explore all the code of scraping RERA data from [here](https://github.co
 
 #### Introduction 
 The goal of this project is to develop a web scraping solution to extract price trend data of properties from the Magicbricks website. Magicbricks is a popular online platform for buying, selling, and renting properties in India. By scraping the price trend data, we aim to analyze and visualize the historical price fluctuations of properties, providing valuable insights for potential buyers, sellers, and real estate professionals.
+
+#### Objective 
+Perform data analysis on the extracted price trend data to identify patterns, trends, and insights. Utilize visualization techniques to present the findings effectively.
