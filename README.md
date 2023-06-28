@@ -1,7 +1,7 @@
 # Web-scraping
 
 ### 1- [Maharashtra RERA Projects and Agent Property detail Scraping](https://github.com/NaveenKumarMaurya/Web-scraping-Project/tree/main/RERA_scraping_code)
-![](https://github.com/NaveenKumarMaurya/Web-scraping-Project/blob/main/RERA_scraping_code/Maharashtra_rera_scraping_code/MAHARERA.jpg)
+![](https://github.com/NaveenKumarMaurya/Web-scraping-Project/blob/main/RERA_scraping_code/Maharashtra_rera_scraping_code/rera-logo.jpg)
 #### Introduction
 The purpose of this project is to develop a web scraping solution to extract data from the Maharashtra Real Estate Regulatory Authority (Maha RERA) website and Goa RERA. Maharashtra RERA & Goa RERA maintains a comprehensive database of registered real estate projects in the state. By scraping this data, we aim to collect information on various real estate projects, such as their details, approvals, status, and developers, for further analysis and decision-making.
 #### Objective
