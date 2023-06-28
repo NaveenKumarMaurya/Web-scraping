@@ -23,3 +23,11 @@ Perform data analysis on the extracted price trend data to identify patterns, tr
 
 #### Introduction
 The goal of this project is to develop a web scraping solution to extract property data from the 99acres.com website. 99acres.com is a popular online platform for buying, selling, and renting properties in India. By scraping property data, we aim to gather comprehensive information about available properties, including their details, location, pricing, amenities, and more. This data can be valuable for real estate professionals, investors, and individuals looking for properties.
+
+#### Objective
+##### Data Extraction:
+Develop a web scraping script or program to extract property data from the 99acres.com website. This includes scraping property details such as property type, size, number of bedrooms, amenities, location information, pricing, and any additional relevant data.
+##### Data Cleansing:
+Cleanse and transform the extracted data to ensure accuracy and consistency. Handle any inconsistencies, missing values, or data formatting issues encountered during the scraping process.
+##### Data Analysis and Visualization:
+Perform data analysis on the scraped property data to identify trends, patterns, and insights. Utilize visualization techniques to present the findings effectively, such as property price distribution, popular locations, or property type trends.
